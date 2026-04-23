@@ -1,0 +1,11 @@
+{
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "description": "DevOps training app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
