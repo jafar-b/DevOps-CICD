@@ -1,4 +1,9 @@
 CICD learning!
+
+Vulnerability Audit:
+<img width="894" height="394" alt="image" src="https://github.com/user-attachments/assets/a56090d2-f850-4b9b-950b-928497d7bb49" />
+
+
 Updated Readme to see if the pipeline triggers automatically.
 updated readme to test the docker image auto push to dockerhub
 
@@ -9,3 +14,4 @@ CICD Execution:
 Docker HUB image:
 
 <img width="1600" height="796" alt="image" src="https://github.com/user-attachments/assets/178ae985-91d0-400b-80d5-b79ea2f15461" />
+
