@@ -4,7 +4,11 @@
   "description": "DevOps training app",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "audit": "npm audit --audit-level=high"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   },
   "author": "",
   "license": "ISC"

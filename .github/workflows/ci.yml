@@ -20,6 +20,9 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Dependency Vulnerability Scan
+        run: npm run audit
+
       - name: Check Syntax
         run: node -c app.js
 
